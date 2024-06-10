@@ -54,33 +54,28 @@ Participants began with the less complex, lighter – standard drone. After fini
 ![Transfer & Land Task Completion Time Main Effects](graph/TransferTask.png)
 
 #### Transfer & Land Task Completion Time Interactions
-![Transfer & Land Task Completion Time Interactions](graph/TransferTask_Interactions.png)
+<img src= "graph/TransferTask_Interactions.png" alt="Transfer & Land Task Completion Time Interactions" width="70%
 
 
 ## Findings
 
 ### Q1: How does increased payload (weight) affect task performance?
 - **The amount of relearning required due to an increase in task difficulty varied by task type.**
-    - 
-    - Heuristic evaluations of drone designs or usability tests on a single mission may not provide sufficient information for optimal design. That is, design usability should be evaluated across a variety of drone missions.
-
+    - Heuristic evaluations of drone designs or usability tests on a single mission may not provide sufficient information for optimal design. Design usability should be evaluated across a variety of drone missions.
     - A training regimen might follow significant design changes, focusing on relearning or retraining specific tasks.
- 
     - Drone missions might be decomposed into specific sub-tasks, with each evaluated for usability when designing a drone/pilot system interface.
- 
-  ### Q2: Does the amount of control input behavior impact performance?
-- **Control input behavior impacts performance, with task-specific effects.**
-    - There is support for employing controller input behavior in user-centered design for performance. Data from controller input provides continuous, inexpensive, non-intrusive, and robust information about pilot performance. The design of new features, advanced systems, and safety overrides can benefit from understanding and considering pilots' control responses. For example, during a handoff of an assistive system, instability-induced control behaviors may suggest alternative designs. 
 
+### Q2: Does the amount of control input behavior impact performance?
+- **Control input behavior impacts performance, with task-specific effects.**
+    - There is support for employing controller input behavior in user-centered design for performance. Data from controller input provides continuous, inexpensive, non-intrusive, and robust information about pilot performance. The design of new features, advanced systems, and safety overrides can benefit from understanding and considering pilots' control responses. For example, during a handoff of an assistive system, instability-induced control behaviors may suggest alternative designs.
 
 ### Q3: Are biometric and behavioral measures associated with drone piloting skill acquisition task-specific?
 - **Cognitive load, focused attention, and vigilance are key biometric measures associated with performance.**
-    - These behavioral and biometric factors can be incorporated as inputs to to develop Artificial Intelligence-based training paradigms for engaging and tailored learning experiences.
-      
+    - These behavioral and biometric factors can be incorporated as inputs to develop Artificial Intelligence-based training paradigms for engaging and tailored learning experiences.
 
 ### Q4: Does cognitive ability moderate the effect of biometric measures on performance?
 - **Cognitive ability moderates the effect of biometric measures on performance.**
-    - This highlights the value of quantifying individual differences, such as cognitive ability for training and usability testing.
+    - This highlights the value of quantifying individual differences, such as cognitive ability, for training and usability testing.
 
 
 
