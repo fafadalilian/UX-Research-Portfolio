@@ -33,7 +33,7 @@ Participants began with the less complex, lighter – standard drone. After fini
 - **Working Memory Capacity**: OSPAN Score
 ![Data Collection and Measures](graph/Data_Measures.jpg)
 
-### Analysis
+## Analysis
 
 - To find the important behavioral and biometric measures associated with learning as well as the moderating effect of cognitive ability, a mixed model regression was used with participants modeled as random effects, behavioral and affective measures as independent variables, and performance as the dependent variable. 
 
@@ -42,7 +42,7 @@ Participants began with the less complex, lighter – standard drone. After fini
 
 ## Results and visulaizatons
 #### Task Completion Times for Vertical Control and Transfer & Land Tasks
-![Task Completion Times](graph/Completion_times.jpg)
+<img src="graph/Completion_times.jpg" alt = "Task Completion Times" width ="70%>
 
 #### Vertical Control Completion Time Main Effects
 ![Vertical Control Completion Time Main Effects](graph/VerticalTask.png)
@@ -57,7 +57,7 @@ Participants began with the less complex, lighter – standard drone. After fini
 ![Transfer & Land Task Completion Time Interactions](graph/TransferTask_Interactions.png)
 
 
-Discussion
+## Findings
 
 ### Q1: How does increased payload (weight) affect task performance?
 - **The amount of relearning required due to an increase in task difficulty varied by task type.**
