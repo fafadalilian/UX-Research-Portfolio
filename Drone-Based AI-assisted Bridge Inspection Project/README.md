@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project explores the effectiveness of drone_enabled AI-assisted bridge inspections compared to "no AI" inspections. The focus is on understanding how AI assistance impacts overall inspection accuracy, how drone piloting skills influence inspection performance, and which behaviors and cognitive states affect the probability of detecting or missing bridge damage.
-<img src="graphs/human_AI_performance.jpg" alt="concept" width="50%">
+<img src="graphs/human_AI_performance.jpg" alt="concept" width="70%">
 
 ## Research Questions
 1. **How does AI assistance affect overall inspection accuracy?**
@@ -42,7 +42,13 @@ Two main analyses were performed:
 - **Initial AI Assistance**: Participants who started with the no-AI condition showed lower performance, while those who began with AI assistance maintained their performance even when transitioning to the no-AI condition, , supporting the integration of AI in bridge inspector training programs..
 - **Training Implications**: Integrating AI assistance into inspection training can positively impact the training process by automating some tasks and providing initial learning support. This allows learners to apply skills acquired from AI decision-making systems to enhance their performance in non-AI conditions.
 ### Q3: Biometric and Behavioral Correlates of P(Miss)
-![The Biometric and Behavioral Factors of Missing a Crack in the No-AI Condition](The Biometric and Behavioral Factors of Missing a Crack in the No-AI Condition)
+No AI condition:
+<img src="noAI_condition.jpg" alt="The Biometric and Behavioral Factors of Missing a Crack in the No-AI Condition" width="70%">
+
+AI condition:
+<img src="AI_condition.jpg" alt="The Biometric and Behavioral Factors of Missing a Crack in the AI Condition" width="70%">
+
+
 
 - **Intense Cognitive Processing**: Increased EEG gamma power was linked to higher likelihood of detection failures, both with and without AI assistance, highlighting the need to manage cognitive load in assistive systems and training protocols.
 - **Visual Scanning Strategies**: Effective visual scanning strategies, such as avoiding chaotic gaze patterns, are crucial for enhancing inspection accuracy.
