@@ -26,8 +26,6 @@ Participants began with the less complex, lighter – standard drone. After fini
 
 
 
-The following biometric and behavioral measures were assessed:
-
 ### Experimental Data Collection and Measures
 - **EEG Band Powers**: Alpha, Beta, Theta power
 - **Pupil Dilation**: Cognitive load and effort
@@ -44,12 +42,12 @@ The following biometric and behavioral measures were assessed:
 
 ## Results and visulaizatons
 #### Task Completion Times for Vertical Control and Transfer & Land Tasks
-![Task Completion Times for Vertical Control and Transfer & Land Tasks](Completion_times.jpg)
+![Task Completion Times](Completion_times.jpg)
 #### Vertical Control Completion Time Main Effects
 ![Vertical Control Completion Time Main Effects](graph/VerticalTask.png)
 
 #### Vertical Control Completion Time Interaction
-![Vertical Control Completion Time Interaction](graph/VerticalTask_Interactions.png)
+<img src="graph/VerticalTask_Interactions.png" alt="Vertical Control Completion Time Interaction" width="50%">
 
 #### Transfer & Land Task Completion Time Main Effects
 ![Transfer & Land Task Completion Time Main Effects](graph/TransferTask.png)
