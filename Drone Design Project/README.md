@@ -81,20 +81,21 @@ Fifteen graduate and undergraduate engineering students participated in the expe
 
 ## Conclusions
 
-The study identified biometric and behavioral indicators for drone piloting skill learning across tasks and difficulty levels. Recommendations for training programs and future research directions are provided.
+The study identified biometric and behavioral indicators for drone piloting skill learning across tasks and difficulty levels. Recommendations for training programs and usability tests are provided.
 
 ### Key Findings
-- **Cognitive load, focused attention, and vigilance are key biometric measures associated with performance.
+- **Cognitive load, focused attention, and vigilance are key biometric measures associated with performance.**
+    - These measures can be use to develop Artificial Intelligence-based training paradigms that incorporate these behavioral and biometric factors as inputs to create engaging and tailored learning experiences. 
 
-- **Cognitive ability moderates the effect of biometric measures on performance.
+- **Cognitive ability moderates the effect of biometric measures on performance.**
+    - This highlights the value of quantifying individual differences, such as cognitive ability.
+- **Control input behavior impacts performance, with task-specific effects.**
+    - There is support for employing controller input behavior in user-centered design for performance. Data from controller input provides continuous, inexpensive, non-intrusive, and robust information about pilot performance. The design of new features, advanced systems, and safety overrides can benefit from understanding and considering pilots' control responses. For example, during a handoff of an assistive system, instability-induced control behaviors may suggest alternative designs. 
 
-- **Control input behavior impacts performance, with task-specific effects.
-there is support for employing controller input behavior in user-centered design for performance. Data from controller input provides continuous, inexpensive, non-intrusive, and robust information about pilot performance. The design of new features, advanced systems, and safety overrides can benefit from understanding and considering pilots' control responses. For example, during a handoff of an assistive system, instability-induced control behaviors may suggest alternative designs. 
+- **Increased task difficulty affects performance differentially across tasks.**
+    - The amount of relearning required due to an increase in task difficulty varied by task type. Heuristic evaluations of drone designs or usability tests on a single mission may not provide sufficient information for optimal design. That is, design usability should be evaluated across a variety of drone missions.
 
-####- Increased task difficulty affects performance differentially across tasks
-- The amount of relearning required due to an increase in task difficulty varied by task type. Heuristic evaluations of drone designs or usability tests on a single mission may not provide sufficient information for optimal design. That is, design usability should be evaluated across a variety of drone missions.
-
-- A training regimen might follow significant design changes, focusing on relearning or retraining specific tasks. However, this may require the identification of specific drone flight requirements and technologies. Drone missions might be decomposed into specific sub-tasks, with each evaluated for usability when designing a drone/pilot system interface.
+    - A training regimen might follow significant design changes, focusing on relearning or retraining specific tasks. However, this may require the identification of specific drone flight requirements and technologies. Drone missions might be decomposed into specific sub-tasks, with each evaluated for usability when designing a drone/pilot system interface.
 
 ### Future Work
 Further research in practical settings is necessary to validate these findings and develop AI-based training paradigms that incorporate biometric and behavioral factors for tailored learning experiences.
