@@ -1,7 +1,7 @@
-# UX Research Portfolio - AI-Assisted Bridge Inspections
+# AI-Assisted Bridge Inspections Project
 
 ## Project Overview
-This project explores the effectiveness of drone_enabled AI-assisted bridge inspections compared to "no AI" inspections. The focus is on understanding how AI assistance impacts overall inspection accuracy, how drone piloting skills influence inspection performance, and which behaviors and cognitive states affect the probability of detecting or missing bridge damage.
+This project explores the effectiveness of AI-assisted drone-based bridge inspections compared to inspections without AI assistance. The focus is on understanding how AI impacts overall inspection accuracy, how drone piloting skills influence inspection performance, and which behaviors and cognitive states affect the probability of detecting or missing bridge damage.
 <img src="graphs/human_AI_performance.jpg" alt="concept" width="70%">
 
 ## Research Questions
@@ -17,9 +17,8 @@ The research involved a controlled laboratory experiment simulating drone-based 
   - **No-AI Condition**: Participants inspected the bridge for cracks without AI assistance.
   - **AI Condition**: An 80% accurate AI assisted participants by highlighting suspect cracks with green boxes. Participants confirmed or refuted these indications.
 - **Data Collection**: Continuous EEG and eye tracking to measure brain activity and eye movements, joystick positions to capture control behavior.
-- **Survey**: Participants completed a survey regarding their drone piloting experience and video gaming experience. 
+- **Survey**: Participants completed a survey regarding their drone piloting experience and video gaming experience.
 - **Experimental Setup**: Participants flew a drone along a simulated bridge, identifying and marking cracks, and reporting false alarms.
-
 
 ## Experimental Measures
 - **EEG Band Powers**: Used to estimate cognitive and emotional states.
@@ -33,14 +32,15 @@ Two main analyses were performed:
 2. **Mixed Logistic Regression**: To determine the impact of biometric and behavioral metrics on the probability of missing cracks in each condition.
 
 ## Key Findings
-### Q1 & Q2: The Effect of AI-assistance and Drone Piloting Experience on Inspection Accuracy
+### Q1 & Q2: The Effect of AI Assistance and Drone Piloting Experience on Inspection Accuracy
 <img src="graphs/inspection_accuracy.jpg" alt="Inspection Accuracy" width="50%">
 - **Drone Piloting Experience**: More experience in piloting drones significantly improves inspection accuracy in the no-AI condition, suggesting that mastering piloting skills enhances overall task performance.
 - **AI Condition**: In the AI-assisted condition, performance was not significantly affected by drone piloting expertise. The AI's high accuracy (80%) helped compensate for human errors, indicating that the AI's capabilities played a crucial role in inspection accuracy.
 - **Training Implications**: Effective bridge inspection training programs should include thorough and overtraining in piloting to ensure safety and quality, especially when AI assistance is involved.
 
-- **Initial AI Assistance**: Participants who started with the no-AI condition showed lower performance, while those who began with AI assistance maintained their performance even when transitioning to the no-AI condition, , supporting the integration of AI in bridge inspector training programs..
+- **Initial AI Assistance**: Participants who started with the no-AI condition showed lower performance, while those who began with AI assistance maintained their performance even when transitioning to the no-AI condition, supporting the integration of AI in bridge inspector training programs.
 - **Training Implications**: Integrating AI assistance into inspection training can positively impact the training process by automating some tasks and providing initial learning support. This allows learners to apply skills acquired from AI decision-making systems to enhance their performance in non-AI conditions.
+
 ### Q3: Biometric and Behavioral Correlates of P(Miss)
 No AI condition:
 <img src="graphs/noAI_condition.jpg" alt="The Biometric and Behavioral Factors of Missing a Crack in the No-AI Condition" width="70%">
@@ -48,13 +48,9 @@ No AI condition:
 AI condition:
 <img src="graphs/AI_condition.jpg" alt="The Biometric and Behavioral Factors of Missing a Crack in the AI Condition" width="50%">
 
-
-
-- **Intense Cognitive Processing**: Increased EEG gamma power was linked to higher likelihood of detection failures, both with and without AI assistance, highlighting the need to manage cognitive load in assistive systems and training protocols.
+- **Intense Cognitive Processing**: Increased EEG gamma power was linked to a higher likelihood of detection failures, both with and without AI assistance, highlighting the need to manage cognitive load in assistive systems and training protocols.
 - **Visual Scanning Strategies**: Effective visual scanning strategies, such as avoiding chaotic gaze patterns, are crucial for enhancing inspection accuracy.
-- **Early AI Exposure**: Early exposure to AI assistance helps maintain high performance levels among inspectors
+- **Early AI Exposure**: Early exposure to AI assistance helps maintain high performance levels among inspectors.
 
 ## Conclusion
 This study highlights the importance of integrating AI assistance in bridge inspection training programs and suggests that understanding cognitive load and visual scanning strategies can enhance inspection accuracy. The findings support the development of AI-based training programs and cognitive monitoring systems to optimize inspector performance and safety.
-
-
