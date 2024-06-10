@@ -45,6 +45,8 @@ The following biometric and behavioral measures were assessed:
 
 
 ## Results and visulaizatons
+#### Task Completion Times for Vertical Control and Transfer & Land Tasks
+![Task Completion Times for Vertical Control and Transfer & Land Tasks](Completion_times.jpg)
 #### Vertical Control Completion Time Main Effects
 ![Vertical Control Completion Time Main Effects](graph/VerticalTask.png)
 
