@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project explores the effectiveness of drone_enabled AI-assisted bridge inspections compared to "no AI" inspections. The focus is on understanding how AI assistance impacts overall inspection accuracy, how drone piloting skills influence inspection performance, and which behaviors and cognitive states affect the probability of detecting or missing bridge damage.
-![concept](human_AI_performance)
+![concept](graphs/human_AI_performance.jpg)
 
 ## Research Questions
 1. **How does AI assistance affect overall inspection accuracy?**
@@ -33,28 +33,22 @@ Two main analyses were performed:
 2. **Mixed Logistic Regression**: To determine the impact of biometric and behavioral metrics on the probability of missing cracks in each condition.
 
 ## Key Findings
-### Q1: How does AI assistance affect overall inspection accuracy?
-![Inspection Accuracy](
+### Q1 & Q2: The Effect of AI-assistance and Drone Piloting Experience on Inspection Accuracy
+![Inspection Accuracy](graphs/inspection_accuracy.jpg)
+- **Drone Piloting Experience**: More experience in piloting drones significantly improves inspection accuracy in the no-AI condition, suggesting that mastering piloting skills enhances overall task performance.
+- **AI Condition**: In the AI-assisted condition, performance was not significantly affected by drone piloting expertise. The AI's high accuracy (80%) helped compensate for human errors, indicating that the AI's capabilities played a crucial role in inspection accuracy.
+- **Training Implications**: Effective bridge inspection training programs should include thorough and overtraining in piloting to ensure safety and quality, especially when AI assistance is involved.
 
-### Q2: Does the amount of control input behavior impact performance?
-- **Control Input Behavior**: Impacts performance with task-specific effects.
-    - Continuous, inexpensive, non-intrusive data from controller inputs can inform the design of advanced systems and safety overrides.
-    - Understanding control responses can help design better training and performance optimization.
+- **Initial AI Assistance**: Participants who started with the no-AI condition showed lower performance, while those who began with AI assistance maintained their performance even when transitioning to the no-AI condition, , supporting the integration of AI in bridge inspector training programs..
+- **Training Implications**: Integrating AI assistance into inspection training can positively impact the training process by automating some tasks and providing initial learning support. This allows learners to apply skills acquired from AI decision-making systems to enhance their performance in non-AI conditions.
+### Q3: Biometric and Behavioral Correlates of P(Miss)
+![The Biometric and Behavioral Factors of Missing a Crack in the No-AI Condition](The Biometric and Behavioral Factors of Missing a Crack in the No-AI Condition)
 
-### Q3: Are biometric and behavioral measures associated with drone piloting skill acquisition task-specific?
-- **Key Measures**: Cognitive load, focused attention, and vigilance significantly influence performance.
-    - These measures can be used to develop AI-based training paradigms for engaging and tailored learning experiences.
-
-### Q4: Does cognitive ability moderate the effect of biometric measures on performance?
-- **Cognitive Ability**: Moderates the effect of biometric measures on performance.
-    - Quantifying individual differences like cognitive ability is crucial for effective training and usability testing.
+- **Intense Cognitive Processing**: Increased EEG gamma power was linked to higher likelihood of detection failures, both with and without AI assistance, highlighting the need to manage cognitive load in assistive systems and training protocols.
+- **Visual Scanning Strategies**: Effective visual scanning strategies, such as avoiding chaotic gaze patterns, are crucial for enhancing inspection accuracy.
+- **Early AI Exposure**: Early exposure to AI assistance helps maintain high performance levels among inspectors
 
 ## Conclusion
 This study highlights the importance of integrating AI assistance in bridge inspection training programs and suggests that understanding cognitive load and visual scanning strategies can enhance inspection accuracy. The findings support the development of AI-based training programs and cognitive monitoring systems to optimize inspector performance and safety.
 
-## Future Work
-Future studies should validate these findings with professional bridge inspectors in real-world settings. Additionally, exploring more sophisticated statistical models to capture complex, nonlinear interactions between biometric and behavioral measures will be beneficial.
-
-## Contact
-For more information, please contact [Your Name] at [Your Email].
 
