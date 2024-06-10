@@ -22,7 +22,7 @@ A series of controlled experiments using drone flight simulations in a laborator
 - **Pupil Dilation**: Cognitive load and effort
 - **Control Input Behavior**: Joystick movement frequencies
 - **Working Memory Capacity**: OSPAN Score
-![Data Collection and Measures](Data_Measures.jpg)
+![Data Collection and Measures](graph/Data_Measures.jpg)
 
 ### Participants and Study Design
 Fifteen graduate and undergraduate engineering students participated in the experiments, which included training on two piloting tasks: vertical control and transfer & land. The experiments were conducted using the Aerosim RC pilot training simulator.
