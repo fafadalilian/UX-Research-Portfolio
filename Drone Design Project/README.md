@@ -15,7 +15,17 @@ This repository contains the UX research conducted on the training needs of dron
 
 ## Methodology
 
-A series of controlled experiments using drone flight simulations in a laboratory setting were conducted. Brain electrical activity, eye movements, and control behavior were recorded during the training sessions for two different drone tasks. The following biometric and behavioral measures were assessed:
+A series of controlled experiments using drone flight simulations in a laboratory setting were conducted. Brain electrical activity, eye movements, and control behavior were recorded during the training sessions for two different drone tasks. 
+
+### Participants and Study Design
+Fifteen graduate and undergraduate engineering students participated in the experiments, which included training on two piloting tasks: vertical control and transfer & land. The experiments were conducted using the Aerosim RC pilot training simulator.
+
+### Experimental Procedure
+![Experimental Procedure](graph/experimental_procedure.JPG)
+
+
+
+The following biometric and behavioral measures were assessed:
 
 ### Experimental Data Collection and Measures
 - **EEG Band Powers**: Alpha, Beta, Theta power
@@ -24,11 +34,6 @@ A series of controlled experiments using drone flight simulations in a laborator
 - **Working Memory Capacity**: OSPAN Score
 ![Data Collection and Measures](graph/Data_Measures.jpg)
 
-### Participants and Study Design
-Fifteen graduate and undergraduate engineering students participated in the experiments, which included training on two piloting tasks: vertical control and transfer & land. The experiments were conducted using the Aerosim RC pilot training simulator.
-
-### Experimental Procedure
-![Experimental Procedure](graph/experimental_procedure.JPG)
 
 ### Biometric and Behavioral Measures and Associated Psychological Features
 | Biometric and Behavioral Metrics | Psychological Features |
