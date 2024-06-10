@@ -4,4 +4,4 @@ Welcome to my UX Research Portfolio. Here, you'll find detailed case studies of 
 
 ## Projects
 
-- [Project 1: Improving drone missions usability and learnability](Drone Design Project/README.md)
+- [Project 1: Improving drone missions usability and learnability](Drone-Design-Project/README.md)
