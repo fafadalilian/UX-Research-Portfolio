@@ -1,7 +1,7 @@
 # Drone Piloting Skill Acquisition Project
 ## Introduction
-This repository contains the UX research conducted on the training needs and skill acquisition of drone pilots. The research aims to improve drone pilot training by utilizing biometric and behavioral measures to assess performance and cognitive load.
-![Concept](graph/Concept.jpg)
+This repository contains the UX research conducted on the training needs of drone pilots as well as usability testing of drone designs. The research aims to improve drone pilot training and drone designs utilizing biometric and behavioral measures to assess performance and cognitive load.
+
 
 ## Research Questions and Hypotheses
 | Research Question | Hypotheses |
