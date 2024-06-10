@@ -43,10 +43,10 @@ Two main analyses were performed:
 - **Training Implications**: Integrating AI assistance into inspection training can positively impact the training process by automating some tasks and providing initial learning support. This allows learners to apply skills acquired from AI decision-making systems to enhance their performance in non-AI conditions.
 ### Q3: Biometric and Behavioral Correlates of P(Miss)
 No AI condition:
-<img src="noAI_condition.jpg" alt="The Biometric and Behavioral Factors of Missing a Crack in the No-AI Condition" width="70%">
+<img src="graphs/noAI_condition.jpg" alt="The Biometric and Behavioral Factors of Missing a Crack in the No-AI Condition" width="70%">
 
 AI condition:
-<img src="AI_condition.jpg" alt="The Biometric and Behavioral Factors of Missing a Crack in the AI Condition" width="70%">
+<img src="graphs/AI_condition.jpg" alt="The Biometric and Behavioral Factors of Missing a Crack in the AI Condition" width="70%">
 
 
 
