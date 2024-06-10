@@ -39,9 +39,9 @@ The following biometric and behavioral measures were assessed:
 
 ### Analysis
 
-    - To find the important behavioral and biometric measures associated with learning as well as the moderating effect of cognitive ability, a mixed model regression was used with participants modeled as random effects, behavioral and affective measures as independent variables, and performance as the dependent variable. 
+- To find the important behavioral and biometric measures associated with learning as well as the moderating effect of cognitive ability, a mixed model regression was used with participants modeled as random effects, behavioral and affective measures as independent variables, and performance as the dependent variable. 
 
-     - To examine how practice affects task completion times and how increasing difficulty levels affect performance, pairwise paired t-tests were performed.
+- To examine how practice affects task completion times and how increasing difficulty levels affect performance, pairwise paired t-tests were performed.
 
 
 ## Results and visulaizatons
