@@ -84,11 +84,11 @@ Fifteen graduate and undergraduate engineering students participated in the expe
 The study identified biometric and behavioral indicators for drone piloting skill learning across tasks and difficulty levels. Recommendations for training programs and future research directions are provided.
 
 ### Key Findings
-####- Cognitive load, focused attention, and vigilance are key biometric measures associated with performance.
+- **Cognitive load, focused attention, and vigilance are key biometric measures associated with performance.
 
-####- Cognitive ability moderates the effect of biometric measures on performance.
+- **Cognitive ability moderates the effect of biometric measures on performance.
 
-####- Control input behavior impacts performance, with task-specific effects.
+- **Control input behavior impacts performance, with task-specific effects.
 there is support for employing controller input behavior in user-centered design for performance. Data from controller input provides continuous, inexpensive, non-intrusive, and robust information about pilot performance. The design of new features, advanced systems, and safety overrides can benefit from understanding and considering pilots' control responses. For example, during a handoff of an assistive system, instability-induced control behaviors may suggest alternative designs. 
 
 ####- Increased task difficulty affects performance differentially across tasks
