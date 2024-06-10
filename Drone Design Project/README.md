@@ -1,4 +1,4 @@
-# Project
+# Drone Piloting Skill Acquisition Project
 ## Introduction
 This repository contains the UX research conducted on the training needs and skill acquisition of drone pilots. The research aims to improve drone pilot training by utilizing biometric and behavioral measures to assess performance and cognitive load.
 ![Concept](graph/Concept.jpg)
@@ -19,6 +19,7 @@ A series of controlled experiments using drone flight simulations in a laborator
 - **EEG Band Powers**: Alpha, Beta, Theta power
 - **Pupil Dilation**: Cognitive load and effort
 - **Control Input Behavior**: Joystick movement frequencies
+- **Working Memory Capacity**: OSPAN Score
 
 ### Participants and Study Design
 Fifteen graduate and undergraduate engineering students participated in the experiments, which included training on two piloting tasks: vertical control and transfer & land. The experiments were conducted using the Aerosim RC pilot training simulator.
@@ -63,28 +64,37 @@ Fifteen graduate and undergraduate engineering students participated in the expe
 ### Q4: How does increased payload (weight) affect task performance?
 - **Performance Improvement**: Continued practice improved performance for both tasks and difficulty levels, with differential impacts observed for increased task difficulty.
 
+
+
 ### Visualizations
 #### Vertical Control Completion Time Main Effects
-![Vertical Control Completion Time Main Effects](path/to/vertical_control_main_effects_image.png)
+![Vertical Control Completion Time Main Effects](graph/VerticalTask.png)
 
 #### Vertical Control Completion Time Interaction
-![Vertical Control Completion Time Interaction](path/to/vertical_control_interaction_image.png)
+![Vertical Control Completion Time Interaction](graph/VerticalTask_Interactions.png)
 
 #### Transfer & Land Task Completion Time Main Effects
-![Transfer & Land Task Completion Time Main Effects](path/to/transfer_land_main_effects_image.png)
+![Transfer & Land Task Completion Time Main Effects](graph/TransferTask.png)
 
 #### Transfer & Land Task Completion Time Interactions
-![Transfer & Land Task Completion Time Interactions](path/to/transfer_land_interactions_image.png)
+![Transfer & Land Task Completion Time Interactions](graph/TransferTask_Interactions.png)
 
 ## Conclusions
 
 The study identified biometric and behavioral indicators for drone piloting skill learning across tasks and difficulty levels. Recommendations for training programs and future research directions are provided.
 
 ### Key Findings
-- Cognitive load, focused attention, and vigilance are key biometric measures associated with performance.
-- Cognitive ability moderates the effect of biometric measures on performance.
-- Control input behavior impacts performance, with task-specific effects.
-- Increased task difficulty affects performance differentially across tasks.
+####- Cognitive load, focused attention, and vigilance are key biometric measures associated with performance.
+
+####- Cognitive ability moderates the effect of biometric measures on performance.
+
+####- Control input behavior impacts performance, with task-specific effects.
+there is support for employing controller input behavior in user-centered design for performance. Data from controller input provides continuous, inexpensive, non-intrusive, and robust information about pilot performance. The design of new features, advanced systems, and safety overrides can benefit from understanding and considering pilots' control responses. For example, during a handoff of an assistive system, instability-induced control behaviors may suggest alternative designs. 
+
+####- Increased task difficulty affects performance differentially across tasks
+- The amount of relearning required due to an increase in task difficulty varied by task type. Heuristic evaluations of drone designs or usability tests on a single mission may not provide sufficient information for optimal design. That is, design usability should be evaluated across a variety of drone missions.
+
+- A training regimen might follow significant design changes, focusing on relearning or retraining specific tasks. However, this may require the identification of specific drone flight requirements and technologies. Drone missions might be decomposed into specific sub-tasks, with each evaluated for usability when designing a drone/pilot system interface.
 
 ### Future Work
 Further research in practical settings is necessary to validate these findings and develop AI-based training paradigms that incorporate biometric and behavioral factors for tailored learning experiences.
