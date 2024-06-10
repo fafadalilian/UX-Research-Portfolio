@@ -6,7 +6,6 @@ This repository contains the UX research conducted on the training needs of dron
 ## Research Questions
 
  **Q1:** Are biometric and behavioral measures associated with drone piloting skill acquisition task-specific? 
- 
  **Q2:** Does cognitive ability moderate the effect of biometric measures on performance?
  **Q3:** Does the amount of control input behavior impact performance?
  **Q4:** How does increased payload (weight) affect task performance? 
