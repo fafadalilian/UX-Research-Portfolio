@@ -34,7 +34,7 @@ Two main analyses were performed:
 
 ## Key Findings
 ### Q1 & Q2: The Effect of AI-assistance and Drone Piloting Experience on Inspection Accuracy
-![Inspection Accuracy](graphs/inspection_accuracy.jpg)
+<img src="graphs/inspection_accuracy.jpg" alt="Inspection Accuracy"] width="50%">
 - **Drone Piloting Experience**: More experience in piloting drones significantly improves inspection accuracy in the no-AI condition, suggesting that mastering piloting skills enhances overall task performance.
 - **AI Condition**: In the AI-assisted condition, performance was not significantly affected by drone piloting expertise. The AI's high accuracy (80%) helped compensate for human errors, indicating that the AI's capabilities played a crucial role in inspection accuracy.
 - **Training Implications**: Effective bridge inspection training programs should include thorough and overtraining in piloting to ensure safety and quality, especially when AI assistance is involved.
