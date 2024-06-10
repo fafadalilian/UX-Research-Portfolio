@@ -42,13 +42,13 @@ Participants began with the less complex, lighter – standard drone. After fini
 
 ## Results and visulaizatons
 #### Task Completion Times for Vertical Control and Transfer & Land Tasks
-<img src="graph/Completion_times.jpg" alt="Task Completion Times" width ="70%">
+<img src="graph/Completion_times.jpg" alt="Task Completion Times" width ="50%">
 
 #### Vertical Control Completion Time Main Effects
 ![Vertical Control Completion Time Main Effects](graph/VerticalTask.png)
 
 #### Vertical Control Completion Time Interaction
-<img src="graph/VerticalTask_Interactions.png" alt="Vertical Control Completion Time Interaction" width="30%">
+<img src="graph/VerticalTask_Interactions.png" alt="Vertical Control Completion Time Interaction" width="25%">
 
 #### Transfer & Land Task Completion Time Main Effects
 ![Transfer & Land Task Completion Time Main Effects](graph/TransferTask.png)
