@@ -40,7 +40,7 @@ Two main analyses were performed:
 - **AI Condition**: In the AI-assisted condition, performance was not significantly affected by drone piloting expertise. The AI's high accuracy (80%) helped compensate for human errors, indicating that the AI's capabilities played a crucial role in inspection accuracy.
 - **Training Implications**: Effective bridge inspection training programs should include thorough and overtraining in piloting to ensure safety and quality, especially when AI assistance is involved.
 
-
+<br>
  
 **Initial AI Assistance**: Participants who started with the no-AI condition showed lower performance, while those who began with AI assistance maintained their performance even when transitioning to the no-AI condition, supporting the integration of AI in bridge inspector training programs.
 - **Training Implications**: Integrating AI assistance into inspection training can positively impact the training process by automating some tasks and providing initial learning support. This allows learners to apply skills acquired from AI decision-making systems to enhance their performance in non-AI conditions.
