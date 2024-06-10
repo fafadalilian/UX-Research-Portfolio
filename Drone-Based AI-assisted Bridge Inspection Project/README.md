@@ -1,4 +1,4 @@
-# AI-Assisted Bridge Inspections Project
+# Drone-based AI-Assisted Bridge Inspections Project
 
 ## Project Overview
 This project explores the effectiveness of AI-assisted drone-based bridge inspections compared to inspections without AI assistance. The focus is on understanding how AI impacts overall inspection accuracy, how drone piloting skills influence inspection performance, and which behaviors and cognitive states affect the probability of detecting or missing bridge damage.
