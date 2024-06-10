@@ -46,7 +46,7 @@ No AI condition:
 <img src="graphs/noAI_condition.jpg" alt="The Biometric and Behavioral Factors of Missing a Crack in the No-AI Condition" width="70%">
 
 AI condition:
-<img src="graphs/AI_condition.jpg" alt="The Biometric and Behavioral Factors of Missing a Crack in the AI Condition" width="70%">
+<img src="graphs/AI_condition.jpg" alt="The Biometric and Behavioral Factors of Missing a Crack in the AI Condition" width="50%">
 
 
 
