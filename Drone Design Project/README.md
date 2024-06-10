@@ -3,13 +3,12 @@
 This repository contains the UX research conducted on the training needs of drone pilots as well as usability testing of drone designs. The research aims to improve drone pilot training and drone designs utilizing biometric and behavioral measures to assess performance and cognitive load.
 
 
-## Research Questions and Hypotheses
-| Research Question | Hypotheses |
-| --- | --- |
-| **Q1:** Are biometric and behavioral measures associated with drone piloting skill acquisition task-specific? | The biometric and behavioral factors significantly affecting completion times for vertical control tasks and transfer & land tasks are different. |
-| **Q2:** Does cognitive ability moderate the effect of biometric measures on performance? | There is a non-zero interaction coefficient between biometric measures and cognitive ability scores on completion times. |
-| **Q3:** Does the amount of control input behavior impact performance? | One or more input behaviors have a coefficient that is not zero in the linear equation with completion time as the response variable. |
-| **Q4:** How does increased payload (weight) affect task performance? | There is a significant difference in the mean completion time before and after the payload increase. |
+## Research Questions
+
+ **Q1:** Are biometric and behavioral measures associated with drone piloting skill acquisition task-specific? 
+ **Q2:** Does cognitive ability moderate the effect of biometric measures on performance?
+ **Q3:** Does the amount of control input behavior impact performance?
+ **Q4:** How does increased payload (weight) affect task performance? 
 
 ## Methodology
 
@@ -44,6 +43,11 @@ Fifteen graduate and undergraduate engineering students participated in the expe
 | Rudder power at 0-1 Hz | Turn guidance input size |
 | Rudder power at 2-3 Hz | Turn stabilization input size |
 
+### Analysis
+
+    - To find the important behavioral and biometric measures associated with learning as well as the moderating effect of cognitive ability, a **mixed model regression** was used with participants modeled as random effects, behavioral and affective measures as independent variables, and performance as the dependent variable. 
+
+     - To examine how practice affects task completion times and how increasing difficulty levels affect performance, pairwise paired t-tests were performed.
 
 
 ## Results and Discussion
