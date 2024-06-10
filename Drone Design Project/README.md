@@ -54,7 +54,7 @@ Participants began with the less complex, lighter – standard drone. After fini
 ![Transfer & Land Task Completion Time Main Effects](graph/TransferTask.png)
 
 #### Transfer & Land Task Completion Time Interactions
-<img src= "graph/TransferTask_Interactions.png" alt="Transfer & Land Task Completion Time Interactions" width="70%"%
+<img src= "graph/TransferTask_Interactions.png" alt="Transfer & Land Task Completion Time Interactions" width="70%">
 
 
 ## Findings
