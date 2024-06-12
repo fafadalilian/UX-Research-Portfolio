@@ -1,6 +1,6 @@
 # Drone Piloting Skill Acquisition Project
 ## Project Overview
-The rapid advancement of drone assistive technology and the growing use of drones for civilian purposes raise important questions about pilot interactions and training. This project models pilots' control actions and mental states to provide guidelines for the training needs of drone pilots and the usability testing of drone designs, ensuring the successful adaptation and integration of drones in various applications.
+The rapid advancement of drone assistive technology and the growing use of drones for civilian purposes raise important questions about pilot interactions and training. This project models pilots' control actions and mental states to provide guidelines for the training needs of drone pilots and the usability testing of drone designs, ensuring the successful integration of drones in various applications.Given the complex nature of skill acquisition for fine motor control tasks, drone piloting competency should not only take performance metrics into account but also cognitive, behavioral, and physical measures. Thus, a multimodal approach is a natural direction for assessing trainees' learning status 
 
 ## Research Questions
 
